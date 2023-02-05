@@ -1,0 +1,19 @@
+.container {
+    margin: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around
+}
+.error {
+    color: red;
+}
+
+.col {
+    color: blue;
+}
+
+.btn {
+    color: black;
+}
+
